@@ -1,0 +1,17 @@
+﻿state_id;timestamp;gender;age;is_active;mood;reaction;temperament
+1;1583185500000;1;25;1;enjoyment;500;choleric
+2;1583435820000;1;25;0;sadness;1023;phlegmatic
+3;1583946780000;1;25;1;anger;341;choleric
+4;1583950620000;1;25;0;sadness;987;melancholic
+5;1584437820000;1;25;0;fear;896;melancholic
+6;1584440580000;1;25;0;sadness;1320;melancholic
+7;1584713400000;1;25;1;sadness;701;melancholic
+8;1584715320000;1;25;0;enjoyment;625;phlegmatic
+9;1584802980000;1;25;1;anger;467;choleric
+10;1584804420000;1;25;1;enjoyment;678;sanguine
+11;1585328460000;1;25;1;disgust;249;choleric
+12;1585329300000;1;25;1;anger;394;choleric
+13;1585330320000;1;25;0;enjoyment;578;choleric
+14;1586087100000;1;25;0;enjoyment;1980;sanguine
+15;1587842220000;1;25;1;sadness;1023;melancholic
+16;1587905820000;1;25;1;anger;321;choleric
